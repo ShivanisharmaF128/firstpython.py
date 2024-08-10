@@ -1,0 +1,5 @@
+mport pyjokes 
+
+joke = pyjokes.get_joke() 
+# print("vani sharma")
+print(joke)
